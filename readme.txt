@@ -1,2 +1,3 @@
-|------------|-------------|
-| Nextstrain | [info](./projects/nextstrain.json)
+| Project Name | Link                                   |
+|--------------|----------------------------------------|
+| Nextstrain   | [info](./projects/nextstrain.json)     |
