@@ -1,6 +1,7 @@
 {
   "name": "Ask Open Science",
   "desc": "A non-commercial OpenScience Q&A site run by Bielefeld University Library, Germany.",
+  "tags": ["Q&A", "FAQ", "Forum"],
   "page": "https://ask-open-science.org",
   "socl": [
     "https://scicomm.xyz/@askopenscience",
