@@ -1,6 +1,0 @@
-opendata
-data science
-genome data
-openscience
-opensource
-public health
