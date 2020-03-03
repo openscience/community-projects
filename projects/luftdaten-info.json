@@ -1,0 +1,11 @@
+{
+  "name": "luftdaten.info",
+  "desc": "Feinstaubalarm! In der Hauptstadt des Staus werden regelmäßig die Grenzwerte überschritten. Wie kann die Luftqualität in Stuttgart gemessen und visualisiert werden? Welche Auswirkungen hat das hohe Verkehrsaufkommen in Stuttgart auf unsere Luft? Wie hoch ist die Belastung durch Feinstaub und Stickoxide in Wohngebieten auch abseits des berüchtigten Neckartors? Diesen und weiteren Fragen gehen wir nach, indem wir Feinstaub Sensoren bauen und die Daten in ein Gesamtbild visualisieren.",
+  "tags": ["Feinstaub", "Stuttgart", "Stickoxide", "Luftqualität"],
+  "page": "https://luftdaten.info/",
+  "socl": [],
+  "founded": null,
+  "ceased": null,
+  "commercial": null,
+  "edit": 1583238896,
+}
