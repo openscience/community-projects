@@ -1,7 +1,7 @@
 {
   "name": <string>,                     ← Project Name
-  "desc": <string>,                     ← Project Description
-  "tags": [<string>],                   ← Project Search Tags
+  "desc": [<multilang>],                ← Project Description [...] >= 1
+  "tags": [<multilang>],                ← Project Search Tags
   "page": null OR <string>,             ← Project Website URL
   "socl": [] OR [<string>],             ← Projects social accounts, List of URL's
   "founded": null OR <unix-time>,       ← Date of project creation
@@ -13,7 +13,7 @@
 
 
 
-// STRINGER
+// MULTILANG
 // An object that contains a string (text) and indicates the language used.
 {
   "lng": <string>,                      ← ISO 639-2/T
