@@ -10,3 +10,12 @@
   "commercial": null OR bool,           ← Whether or not this project is commercial
   "edit": <unix-time>,                  ← Last edit date
 }
+
+
+
+// STRINGER
+// An object that contains a string (text) and indicates the language used.
+{
+  "lng": <string>,                      ← ISO 639-2/T
+  "txt": <string>,                      ← text
+}
