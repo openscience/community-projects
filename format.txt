@@ -13,9 +13,13 @@
 
 
 
-// MULTILANG
+// STRING_LANG
 // An object that contains a string (text) and indicates the language used.
 {
   "lng": <string>,                      ← ISO 639-2/T
   "txt": <string>,                      ← text
 }
+
+// MULTILANG
+// A slice of 'STRING_LANG' objects;
+[<STRING_LANG>...]
