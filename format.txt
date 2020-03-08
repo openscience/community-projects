@@ -20,5 +20,5 @@
 }
 
 // MULTILANG
-// A slice of 'STRING_LANG' objects;
+// A slice of 'STRING_LANG' objects; Each language indicator must be unique within a list.
 [<STRING_LANG>...]
