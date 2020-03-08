@@ -22,3 +22,10 @@
 // MULTILANG
 // A slice of 'STRING_LANG' objects; Each language indicator must be unique within a list.
 [<STRING_LANG>...]
+
+IDEA:
+{
+  "txt": <string>,
+  "lng": <string>,
+  "int": <multilang>,   ← translations
+}
