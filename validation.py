@@ -50,8 +50,8 @@ if __name__ == "__main__":
 		check_stringlang( {"lng": "", "txt": ""} )
 		check_uniq_list_stringlang(
 			[
-				{"lng": "DEU", "txt": ""},
-				{"lng": "DEU", "txt": ""},
+				{"lng": "ENG", "txt": ""},
+				{"lng": "ENG", "txt": ""},
 			]
 		, uniq=True)
 	except Exception as e:
