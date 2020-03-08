@@ -6,7 +6,7 @@
   "socl": [] OR [<string>],             ← Projects social accounts, List of URL's
   "founded": null OR <unix-time>,       ← Date of project creation
   "ceased": null OR <unix-time>,        ← Date of project termination
-  "commercial": null OR bool,           ← Whether or not this project is commercial
+  "cmcl": null OR bool,           ← Whether or not this project is commercial
   "edit": <unix-time>,                  ← Last edit date
 }
 
