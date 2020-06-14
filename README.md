@@ -1,6 +1,6 @@
 
 ## Folder structure
-All collected information on projects can be found in the `/projects` folder in the root directory. A separate folder is assigned to each project. The folder name of a project must be unique within the collection. All spaces must be replaced by underscore (e.g. `example_project_name`). Every project directory must contain a `meta.json` file, in which all meta data is stored in a uniform format.
+Collected information on projects can be found in the `/projects` folder in the root directory. A separate folder is assigned to each project. The folder name of a project must be unique within the collection. All spaces must be replaced by underscore (e.g. `example_project_name`). Every project directory must contain a `meta.json` file, in which all meta data is stored in a uniform format.
 ```
 /projects
    /<project_name>
