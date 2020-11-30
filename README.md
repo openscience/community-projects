@@ -13,6 +13,7 @@ Collected information on projects can be found in the `/projects` folder in the 
 **Optional**
 - ICON: If a project can be associated with a logo, it is saved in `icon.svg`.
 
+<br><br>
 ## Metadata structure
 ```
 {
