@@ -1,0 +1,11 @@
+{
+  "name": "OpenPlant",
+  "desc": [{"lng": "ENG","txt": "OpenPlant is a collaborative research initiative between the University of Cambridge, The John Innes Centre and the Earlham Institute. Our goal is to use synthetic biology for the improvement of sustainable agriculture and conservation in three key areas: 1) OPEN TOOLS AND TECHNOLOGIES 2) ENGINEERING PLANT TRAITS AND PRODUCTS 3) RESPONSIBLE RESEARCH AND INNOVATION\nOur activities include research and development, as well as outreach and exchange. Core areas of interest include: developing new technologies, creating new open standards and open-access tools, and supporting global innovation for development of an equitable and sustainable bioeconomy."}],
+  "tags": [{"lng": "ENG","txt": "biology"},{"lng": "ENG","txt": "collaborative"}],
+  "page": "https://www.openplant.org/",
+  "socl": ["https://twitter.com/_OpenPlant"],
+  "cmcl": null,
+  "founded": null,
+  "ceased": null,
+  "edit": 1606745099,
+}
