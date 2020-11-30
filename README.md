@@ -24,7 +24,7 @@ Collected information on projects can be found in the `/projects` folder in the 
   "cmcl": null OR bool,                 ← Whether or not this project is commercial
   "founded": null OR <unix-time>,       ← Date of project creation
   "ceased": null OR <unix-time>,        ← Date of project termination
-  "edit": <unix-time>,                  ← Last edit date
+  "edit": <unix-time>,                  ← Last edit date UTC format as UNIX timestamp
 }
 ```
 
