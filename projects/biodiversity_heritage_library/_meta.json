@@ -1,0 +1,23 @@
+{
+  "name": "Biodiversity Heritage Library",
+  "desc": [
+    {"lng": "ENG","txt": "Inspiring discovery through free access to biodiversity knowledge. The Biodiversity Heritage Library improves research methodology by collaboratively making biodiversity literature openly available to the world as part of a global biodiversity community."},
+  ],
+  "tags": [
+    {"lng": "ENG","txt": "biology"},
+    {"lng": "ENG","txt": "library"},
+    {"lng": "ENG","txt": "diversity"},
+  ],
+  "page": "http://biodiversitylibrary.org/",
+  "socl": [
+    "https://www.facebook.com/BioDivLibrary",
+    "https://twitter.com/BioDivLibrary",
+    "https://www.instagram.com/biodivlibrary",
+    "https://www.pinterest.com/biodivlibrary",
+    "https://biodivlibrary.tumblr.com/",
+  ],
+  "cmcl": null,
+  "founded": null,
+  "ceased": null,
+  "edit": 1611351023,
+}
