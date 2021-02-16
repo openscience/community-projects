@@ -1,0 +1,15 @@
+{
+  "name": "PubPub",
+  "desc": "The open-source, privacy-respecting, all-in-one collaborative publishing platform for communities small and large. Manage, evolve & perfect your publishing process.",
+  "tags": ["publishing", "collaborative", "opensource", "privacy", "platform"],
+  "page": "https://www.pubpub.org/",
+  "socl": [
+    "https://twitter.com/pubpub",
+    "https://github.com/pubpub",
+    "hello@pubpub.org"
+  ],
+  "founded": null,
+  "ceased": null,
+  "succeeds": null,
+  "edit": "1613482133",
+}
