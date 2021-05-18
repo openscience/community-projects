@@ -1,0 +1,19 @@
+{
+  "name": "IntEQ",
+  "desc": [
+    {"lng": "ENG","txt": "This Python package estimates Volterra and Fredholm integral equations using known techniques."},
+  ],
+  "tags": [
+    {"lng": "ENG","txt": "mathematics"},
+    {"lng": "ENG","txt": "physics"},
+  ],
+  "page": "https://pypi.org/project/inteq/",
+  "socl": [
+    "https://inteq.readthedocs.io/en/latest/",
+    "https://github.com/mwt/inteq/",
+  ],
+  "cmcl": null,
+  "founded": null,
+  "ceased": null,
+  "edit": 1621357003,
+}
